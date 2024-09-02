@@ -3,4 +3,4 @@ Scraped data analyst job listings from Taiwan's largest job website to assist no
 <br>
 [Tableau Dashboard](https://public.tableau.com/app/profile/yuchi.lai/viz/DataAnalystJobsinTaiwan/Dashboard?publish=yes)
 <br>
-![Tableau Screenshot](tableau screen.jpg)
+![Tableau Screenshot](tableau_screenshot.jpg)
